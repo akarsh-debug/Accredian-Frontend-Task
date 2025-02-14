@@ -14,7 +14,7 @@ This project provides the frontend interface for the referral system. Built with
 
 1. Clone the repository:
    ```sh
-   git clone (https://github.com/akarsh-debug/Accredian-Frontend-Task.git)
+   git clone https://github.com/akarsh-debug/Accredian-Frontend-Task.git
    cd Accredian-Frontend-Task
    ```
 2. Install dependencies:
